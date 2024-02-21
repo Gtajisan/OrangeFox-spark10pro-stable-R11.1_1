@@ -29,3 +29,4 @@ ro.system.build.version.release_or_codename=12
 ro.system.build.version.sdk=31
 ####################################
 ## link hed 
+link [CLICK HERE](https://t.me/c/1938973260/3)
